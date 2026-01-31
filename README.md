@@ -1,4 +1,4 @@
-# Translation Error Taxonomy & Annotation Tool
+# ⭐Translation Error Taxonomy & Annotation Tool⭐
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -6,12 +6,12 @@
 
 A professional web-based tool for translation quality assessment using the MQM (Multidimensional Quality Metrics) framework. Designed for translation quality raters, MTPE specialists, and linguists to systematically assess and annotate translation errors.
 
-## 🌐 Live Demo
+## Live Demo
 
 **Try it now:** [https://3stefani.github.io/Translation-qa-tool/](https://3stefani.github.io/Translation-qa-tool/)
 
 
-## ✨ Features
+## Features
 
 ### Core Functionality
 - **MQM Framework Implementation**: Industry-standard error classification
@@ -34,7 +34,7 @@ A professional web-based tool for translation quality assessment using the MQM (
 - ✅ Responsive design (mobile-friendly)
 - ✅ Professional UI/UX
 
-## 🎯 Use Cases
+## Use Cases
 
 ### For Translation QA Specialists
 - Standardize error classification across projects
@@ -60,7 +60,7 @@ A professional web-based tool for translation quality assessment using the MQM (
 - Learn MQM framework
 - Build evaluation skills
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Option 1: Use Online (Recommended)
 Visit the [live demo](https://3stefani.github.io/Translation-qa-tool/) - no installation needed!
@@ -68,7 +68,7 @@ Visit the [live demo](https://3stefani.github.io/Translation-qa-tool/) - no inst
 ### Option 2: Run Locally
 1. Download the repository or clone it:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/translation-qa-tool.git
+   git clone https://github.com/3stefani/Translation-qa-tool.git
    ```
 2. Open `index.html` in your web browser
 3. Start annotating!
@@ -76,10 +76,10 @@ Visit the [live demo](https://3stefani.github.io/Translation-qa-tool/) - no inst
 ### Option 3: Try with Example Files
 1. Download `example-source.txt` and `example-target.txt`
 2. Open the tool
-3. Use the "📁 Upload" buttons to load the example files
-4. Follow the annotation guide in `EXAMPLE.md`
+3. Use the "📁  Or upload source text file" buttons to load the example files
+5. Follow the annotation guide in `EXAMPLE.md`
 
-## 📖 How to Use
+## How to Use
 
 ### Step 1: Load Translation Pair
 1. Enter a project name (e.g., "Customer Service Email - Refund Request")
@@ -105,7 +105,7 @@ Visit the [live demo](https://3stefani.github.io/Translation-qa-tool/) - no inst
 - Export detailed JSON report
 - Export CSV of all errors for further analysis
 
-## 📊 MQM Framework
+## MQM Framework
 
 This tool implements the **Multidimensional Quality Metrics (MQM)** framework, an industry standard for translation quality assessment used by companies like Google, Microsoft, and major Language Service Providers.
 
@@ -124,7 +124,7 @@ This tool implements the **Multidimensional Quality Metrics (MQM)** framework, a
 - **Major**: Significantly impacts understanding or quality
 - **Minor**: Noticeable but doesn't severely impact quality
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Frontend**: HTML5, CSS3 (Grid, Flexbox)
 - **Logic**: Vanilla JavaScript (ES6+)
@@ -132,7 +132,7 @@ This tool implements the **Multidimensional Quality Metrics (MQM)** framework, a
 - **Charts**: HTML5 Canvas API
 - **Dependencies**: None - completely standalone
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 translation-qa-tool/
@@ -141,10 +141,11 @@ translation-qa-tool/
 ├── script.js               # Core functionality
 ├── README.md              # This file
 ├── EXAMPLE.md             # Detailed usage example
+├── EXAMPLE.pdf            # Detailed usage example pdf file
 ├── example-source.txt     # Sample source text
 ├── example-target.txt     # Sample translation with errors
-├── LICENSE                # MIT License
-└── .gitignore             # Git ignore rules
+├── video-demo-tool.mp4    # Video showing the performing of the app
+└──  LICENSE                # MIT License
 ```
 
 ## 🔐 Privacy & Security
